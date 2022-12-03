@@ -90,6 +90,7 @@ body{
 /* .grid:last-child{
   margin-bottom: 0;
 } */
+
 .grid:not(:last-child){
   margin-bottom: 9.6rem;
 }
@@ -216,7 +217,7 @@ body{
     color:#e67e22;
   }
   
-
+/* HELPER/SETTING CLASSES */
   .margin-right-sm{
     margin-right: 1.6rem !important;
   }
