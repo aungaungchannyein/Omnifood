@@ -161,7 +161,8 @@ body{
 }
 
 .btn,
-.btn:link, .btn:visited{
+.btn:link, 
+.btn:visited{
   display: inline-block;
   font-size: 2rem;
   padding: 1.6rem 3.2rem;
